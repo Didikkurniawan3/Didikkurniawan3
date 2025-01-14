@@ -1,3 +1,6 @@
+<img src='https://media1.tenor.com/images/f2cf8db002f228e3385f6f6c33ea64b4/tenor.gif?itemid=8674130' width='100%' alt='BannerGIF'>
+
+
 # Hi there, I'm Didik Kurniawan 👋
 ## About me:
 I am a Bachelor of Information Systems graduate from Digital Indonesia University of Technology. Having a great interest in web-based programming, I am skilled in programming languages such as Golang and Node.js, and have the ability to manage databases and build APIs. I am committed to continuously learning and deepening my knowledge and skills as a Backend Developer, Backend Engineer, and Software Engineer.

@@ -20,11 +20,6 @@ an open music player app called OpenMusic, which provides free licensed music to
 #### 4. [Development of Heart Failure Prediction Model Using Machine Learning with Classification Evaluation](https://github.com/Didikkurniawan3/Heart-Failure-Prediction) | 
 Heart failure is a condition in which the heart is weakened to the point that it is unable to pump enough blood throughout the body, often occurring in people over 65 years old and being one of the highest causes of death in the world. To overcome this problem, machine learning technology can be used as a solution by developing a heart failure disease prediction system. This system is expected to help medical personnel detect the disease earlier, so that prevention and treatment steps can be taken more quickly and effectively. This project uses data processing methods by removing irrelevant features, dividing the dataset into training and evaluation data with a ratio of 8:2, and performing data validation and preprocessing. The model architecture includes input layers for categorical and numerical data, two hidden layers, one Dropout layer, and an output layer. Model evaluation uses metrics such as AUC, Precision, Recall, ExampleCount, TruePositives, FalsePositives, TrueNegatives, FalseNegatives, and BinaryAccuracy to assess classification performance.
 
-## sertifikat
-#### 1. [Becoming a Back-End Developer Expert](https://www.dicoding.com/certificates/NVP78M8EOXR0)
-
-#### 2. [Expert Level Machine Learning Develope](https://drive.google.com/file/d/1HjmRw0IeZW-AiiJp_shMqojft0CkaWaT/view)
-
 ## Languages :
 <img align="left" alt="MySQL" width="30px" src="./img/node_icon_196185.svg" style="padding-right:10px;" />
 
